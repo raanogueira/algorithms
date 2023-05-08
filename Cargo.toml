@@ -1,0 +1,13 @@
+[package]
+name = "algorithms"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dev-dependencies]
+rusty-hook = "^0.11.2"
+
+[[bin]]
+name = "1_two_sum"
+path = "src/arrays/1_two_sum/main.rs"
