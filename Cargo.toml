@@ -11,3 +11,7 @@ rusty-hook = "^0.11.2"
 [[bin]]
 name = "1_two_sum"
 path = "src/arrays/1_two_sum/main.rs"
+
+[[bin]]
+name = "2_best_time_to_buy_sell_stock"
+path = "src/arrays/2_best_time_to_buy_sell_stock/main.rs"
